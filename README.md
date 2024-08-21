@@ -42,5 +42,4 @@ source venv/bin/activate
    ```
 
 ### 3. Run the Jupyter Notebook
-
-With everything set up, you can now run the Jupyter Notebook.
+With everything set up, you can now run the Jupyter Notebook on google colab.
