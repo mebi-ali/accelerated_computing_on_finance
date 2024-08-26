@@ -11,9 +11,9 @@ Integrating Accelerated Computing and Geospatial Intelligence in Central Banking
 
 Follow the steps below to set up the environment and get started with the project.
 
-### 1. Create and Activate a Virtual Environment
+### 1. Create and Activate a Virtual Environment (Optional)
 
-Create a virtual environment using the following command:
+Create a virtual environment using the following command, please skip this if you are running it on google colab. 
 
 ```bash
 python3 -m venv venv
@@ -36,9 +36,9 @@ source venv/bin/activate
 
 1. Go to the google drive upload the datasets on your drive.
 2. Go to https://www.pandabi.ai, create an account to use the api key. 
-3. install Dependencies
+3. install Dependencies by pasting the below command on jupyter notebook 
    ```bash
-   pip install -r requirments.txt
+   !pip install -r requirments.txt
    ```
 
 ### 3. Run the Jupyter Notebook
