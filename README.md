@@ -13,7 +13,7 @@ Follow the steps below to set up the environment and get started with the projec
 
 ### 1. Create and Activate a Virtual Environment (Optional)
 
-Create a virtual environment using the following command, please skip this if you are running it on google colab. 
+Create a virtual environment using the following command, please skip this if you are running the notebook on google colab. 
 
 ```bash
 python3 -m venv venv
@@ -34,7 +34,7 @@ source venv/bin/activate
 
 ### 2. Prepare the Data and Install Dependencies
 
-1. Go to the google drive upload the datasets on your drive.
+1. Go to the google drive upload the datasets and the notebook on your drive.
 2. Go to https://www.pandabi.ai, create an account to use the api key. 
 3. install Dependencies by pasting the below command on jupyter notebook 
    ```bash
